@@ -19,7 +19,8 @@
                 {
                     Console.Write($"Enter ROW {i} Enter Column {j} value ");
                     arr[i,j]= Convert.ToInt32(Console.ReadLine());
-                }
+                }  
+                Console.WriteLine();
             }
 
             for (int i = 0; i <p; i++)
