@@ -1,0 +1,15 @@
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\bin\Debug\net6.0\MobileBased Project.exe
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\bin\Debug\net6.0\MobileBased Project.deps.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\bin\Debug\net6.0\MobileBased Project.runtimeconfig.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\bin\Debug\net6.0\MobileBased Project.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\bin\Debug\net6.0\MobileBased Project.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\refint\MobileBased Project.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\MobileBased Project.genruntimeconfig.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\MobileBased Project\obj\Debug\net6.0\ref\MobileBased Project.dll
