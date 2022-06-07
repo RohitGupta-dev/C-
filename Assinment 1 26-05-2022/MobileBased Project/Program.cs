@@ -47,7 +47,7 @@ namespace MobileBasedProject
                 string ProductID = Console.ReadLine();
                 while (!VerifyProductID(ProductID))
                 {
-                    Console.Write("Enter Correct Product  Id");
+                    Console.Write("Enter Correct Product  Id ");
                     ProductID = Console.ReadLine();
                 }
                 Console.Write("Enter Name  ");
@@ -58,18 +58,27 @@ namespace MobileBasedProject
                     Name = Console.ReadLine();
                 }
                 //Console.WriteLine(Name);
-                Console.Write("Enter Color");
+                Console.Write("Enter Color  ");
                 string Color = Console.ReadLine();
                 while (!Verifyname(Color))
                 {
                     Color = Console.ReadLine();
                 }
-                Console.Write("Enter Price");
+                Console.Write("Enter Price  ");
                 string Price = Console.ReadLine();
+                double d;
+                bool r = double.TryParse(Price, out d);
+                while(!r == true)
+                {
+                    Console.WriteLine("please Enter VAlid data");
+                    Price = Console.ReadLine();
+
+                }
                 while (!Verifyname(Price))
                 {
                     Price = Console.ReadLine();
                 }
+                
                 Console.Write("Enter Warranty ");
 
                 string Warranty = Console.ReadLine();
@@ -77,7 +86,7 @@ namespace MobileBasedProject
                 {
                     Warranty = Console.ReadLine();
                 }
-                Console.Write("Enter manufactureDate");
+                Console.Write("Enter manufactureDate  ");
 
                 string manufactureDate = Console.ReadLine();
                 while (!Verifyname(manufactureDate))
@@ -113,15 +122,18 @@ namespace MobileBasedProject
 
               
             }
+            Console.WriteLine("------------------------------Data Start-------------------------------------------------------");
+            Console.WriteLine("ID  Name  color Price  Warrenty  Date    ");
             for (int k = 0; k < input; k++)
             {
                 for (int j = 0; j < 5; j++)
                 {
-                    Console.WriteLine(Data[k, j]);
+                    Console.Write(Data[k, j]+ " ");
 
                 }
                 Console.ReadLine();
             }
+            Console.WriteLine("-----------------------------Data End--------------------------------------------------------");
 
 
         }

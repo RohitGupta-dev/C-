@@ -1,0 +1,15 @@
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\bin\Debug\net6.0\Inheritance Assinment.exe
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\bin\Debug\net6.0\Inheritance Assinment.deps.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\bin\Debug\net6.0\Inheritance Assinment.runtimeconfig.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\bin\Debug\net6.0\Inheritance Assinment.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\bin\Debug\net6.0\Inheritance Assinment.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\refint\Inheritance Assinment.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\Inheritance Assinment.genruntimeconfig.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Inheritance Assinment\obj\Debug\net6.0\ref\Inheritance Assinment.dll
