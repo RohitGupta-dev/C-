@@ -1,0 +1,5 @@
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\polymorphism\obj\Debug\net6.0\polymorphism.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\polymorphism\obj\Debug\net6.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\polymorphism\obj\Debug\net6.0\polymorphism.csproj.CoreCompileInputs.cache
