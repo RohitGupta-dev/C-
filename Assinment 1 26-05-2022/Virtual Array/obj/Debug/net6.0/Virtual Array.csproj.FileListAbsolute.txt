@@ -1,0 +1,15 @@
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\bin\Debug\net6.0\Virtual Array.exe
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\bin\Debug\net6.0\Virtual Array.deps.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\bin\Debug\net6.0\Virtual Array.runtimeconfig.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\bin\Debug\net6.0\Virtual Array.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\bin\Debug\net6.0\Virtual Array.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\refint\Virtual Array.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\Virtual Array.genruntimeconfig.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Virtual Array\obj\Debug\net6.0\ref\Virtual Array.dll

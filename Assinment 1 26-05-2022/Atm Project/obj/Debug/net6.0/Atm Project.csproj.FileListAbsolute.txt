@@ -1,0 +1,15 @@
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\bin\Debug\net6.0\Atm Project.exe
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\bin\Debug\net6.0\Atm Project.deps.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\bin\Debug\net6.0\Atm Project.runtimeconfig.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\bin\Debug\net6.0\Atm Project.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\bin\Debug\net6.0\Atm Project.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\refint\Atm Project.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\Atm Project.genruntimeconfig.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\Atm Project\obj\Debug\net6.0\ref\Atm Project.dll
