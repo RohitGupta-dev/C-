@@ -1,0 +1,15 @@
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\bin\Debug\net6.0\interface Practice.exe
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\bin\Debug\net6.0\interface Practice.deps.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\bin\Debug\net6.0\interface Practice.runtimeconfig.json
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\bin\Debug\net6.0\interface Practice.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\bin\Debug\net6.0\interface Practice.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\refint\interface Practice.dll
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.pdb
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\interface Practice.genruntimeconfig.cache
+C:\Users\Local User\Desktop\C#\Assinment 1 26-05-2022\interface Practice\obj\Debug\net6.0\ref\interface Practice.dll

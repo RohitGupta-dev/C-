@@ -45,14 +45,13 @@
             Console.WriteLine("enter card Number  Correct number");
 
             crnum = Console.ReadLine();
-            this.cN = checkCreditcardNumber(crnum);
+           
         }
-        while (s.Length == 15)
+        while (s.Length >= 15 && s.Length < 15)
         {
             Console.WriteLine("enter Correct card Number lenth NUmber");
             crnum = Console.ReadLine();
-            this.cN = checkCreditcardNumber(crnum);
-        }
+                  }
 
         return c;
 
@@ -65,13 +64,13 @@
             Console.WriteLine("enter pin Correct number");
 
             cpin= Console.ReadLine();
-            cp = checkCreditcardpin(cpin);
+          
         }
         while (s.Length == 3)
         {
             Console.WriteLine("enter Correct pin lenth NUmber");
             cpin = Console.ReadLine();
-            cp = checkCreditcardpin(cpin);
+         
         }
         return c;
 
@@ -84,7 +83,7 @@
             Console.WriteLine("enter Correct integer number");
 
             s= Console.ReadLine();
-            cp = checkCreditcardpin(s);
+          
         }
         return c;
     }
