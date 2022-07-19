@@ -1,0 +1,15 @@
+C:\Users\Local User\Desktop\C#\C# test\covertDays\bin\Debug\net6.0\covertDays.exe
+C:\Users\Local User\Desktop\C#\C# test\covertDays\bin\Debug\net6.0\covertDays.deps.json
+C:\Users\Local User\Desktop\C#\C# test\covertDays\bin\Debug\net6.0\covertDays.runtimeconfig.json
+C:\Users\Local User\Desktop\C#\C# test\covertDays\bin\Debug\net6.0\covertDays.dll
+C:\Users\Local User\Desktop\C#\C# test\covertDays\bin\Debug\net6.0\covertDays.pdb
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.dll
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\refint\covertDays.dll
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.pdb
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\covertDays.genruntimeconfig.cache
+C:\Users\Local User\Desktop\C#\C# test\covertDays\obj\Debug\net6.0\ref\covertDays.dll

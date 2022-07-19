@@ -1,0 +1,15 @@
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.AssemblyInfoInputs.cache
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.AssemblyInfo.cs
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\bin\Debug\net6.0\manipulateArray.exe
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\bin\Debug\net6.0\manipulateArray.deps.json
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\bin\Debug\net6.0\manipulateArray.runtimeconfig.json
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\bin\Debug\net6.0\manipulateArray.dll
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\bin\Debug\net6.0\manipulateArray.pdb
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.dll
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\refint\manipulateArray.dll
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.pdb
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\manipulateArray.genruntimeconfig.cache
+C:\Users\Local User\Desktop\C#\C# test\manipulateArray\obj\Debug\net6.0\ref\manipulateArray.dll
