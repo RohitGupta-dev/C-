@@ -1,0 +1,3 @@
+﻿function rohit() {
+    alert("Rohit");
+}

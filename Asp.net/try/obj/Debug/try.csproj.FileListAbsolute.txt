@@ -1,0 +1,2 @@
+C:\Users\Local User\Desktop\C#\Asp.net\try\obj\Debug\try.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.net\try\obj\Debug\try.csproj.CoreCompileInputs.cache
