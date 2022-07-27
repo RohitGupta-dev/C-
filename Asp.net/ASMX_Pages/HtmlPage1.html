@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script>
+
+        $(document).ready(function () {
+
+            $("#showData").click(() => {
+                $.get("https://localhost:44345/ApiService.asmx/showdata", function (data) {
+                    $(".gridView").html(data);
+                    alert("Load was performed.");
+                });
+            })
+
+            $("#save").click(() => {
+
+                var name = $("#name").val();
+                var email = $("#email").val();
+                var phone = $("#phone").val();
+                var _class = $("#class").val();
+              
+                $.ajax({                    type: "POST",                    url: "https://localhost:44345/ApiService.asmx/saveIntoDb",                    data: "{name :'" + name + "',email:'" + email + "' ,phone:'" + phone + "',class_:'" + _class  +"'}",                    contentType: 'application/json;charset=utf-8',                    datatype: 'json',                    error: function (XMLHttpRequest) {                        console.log(XMLHttpRequest);                    },                    complete: function (jqXHR, status) {                        console.log(jqXHR);                        console.log(status);                        alert(status);                    }                })
+            })
+
+        });
+
+    </script>
+
+    <script src="index.js"></script>
+</head>
+<body>
+    <label for="name">Name</label>
+    <input type="text" id="name" />
+    <br /><br />
+
+    <label for="email">Email</label>
+
+    <input type="text" id="email" /><br /> <br />
+
+    <label for="phone">phone</label>
+
+    <input type="text" id="phone" /><br /><br />
+    <label for="class">class</label>
+
+    <input type="text" id="class" /><br /><br />
+
+    <button id="save">Submit</button>
+    <button id="save">Submit</button>
+
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\Local User\Desktop\C#\Asp.net\connection\bin\Debug\connection.dll
+C:\Users\Local User\Desktop\C#\Asp.net\connection\bin\Debug\connection.pdb
+C:\Users\Local User\Desktop\C#\Asp.net\connection\obj\Debug\connection.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.net\connection\obj\Debug\connection.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.net\connection\obj\Debug\connection.dll
+C:\Users\Local User\Desktop\C#\Asp.net\connection\obj\Debug\connection.pdb

@@ -1,0 +1,6 @@
+C:\Users\Local User\Desktop\C#\Asp.net\DB_Connection\bin\Debug\DB_Connection.dll
+C:\Users\Local User\Desktop\C#\Asp.net\DB_Connection\bin\Debug\DB_Connection.pdb
+C:\Users\Local User\Desktop\C#\Asp.net\DB_Connection\obj\Debug\DB_Connection.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.net\DB_Connection\obj\Debug\DB_Connection.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.net\DB_Connection\obj\Debug\DB_Connection.dll
+C:\Users\Local User\Desktop\C#\Asp.net\DB_Connection\obj\Debug\DB_Connection.pdb

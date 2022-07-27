@@ -1,0 +1,9 @@
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\bin\Debug\dbBusiness.dll
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\bin\Debug\dbBusiness.pdb
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\bin\Debug\connectionDB.dll
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\bin\Debug\connectionDB.pdb
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\obj\Debug\dbBusiness.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\obj\Debug\dbBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\obj\Debug\dbBusiness.csproj.CopyComplete
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\obj\Debug\dbBusiness.dll
+C:\Users\Local User\Desktop\C#\Asp.net\dbBusiness\obj\Debug\dbBusiness.pdb

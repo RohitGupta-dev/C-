@@ -1,0 +1,9 @@
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\bin\Debug\BussinessLogicManagement.dll
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\bin\Debug\BussinessLogicManagement.pdb
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\bin\Debug\DB_Connection.dll
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\bin\Debug\DB_Connection.pdb
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\obj\Debug\BussinessLogicManagement.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\obj\Debug\BussinessLogicManagement.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\obj\Debug\BussinessLogicManagement.csproj.CopyComplete
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\obj\Debug\BussinessLogicManagement.dll
+C:\Users\Local User\Desktop\C#\Asp.net\BussinessLogicManagement\obj\Debug\BussinessLogicManagement.pdb
