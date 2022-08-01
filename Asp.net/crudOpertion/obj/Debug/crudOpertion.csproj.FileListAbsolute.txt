@@ -1,6 +1,13 @@
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\crudOpertion.dll.config
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\crudOpertion.dll
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\crudOpertion.pdb
+C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.csproj.CopyComplete
+C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.dll
+C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.pdb
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\roslyn\csc.exe
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\roslyn\csc.exe.config
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\roslyn\csc.rsp
@@ -50,10 +57,3 @@ C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\roslyn\vbc.exe.config
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\roslyn\vbc.rsp
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\roslyn\VBCSCompiler.exe
 C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.csproj.AssemblyReference.cache
-C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.csproj.CoreCompileInputs.cache
-C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.csproj.CopyComplete
-C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.dll
-C:\Users\Local User\Desktop\C#\Asp.net\crudOpertion\obj\Debug\crudOpertion.pdb
