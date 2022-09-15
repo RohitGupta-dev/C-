@@ -1,0 +1,9 @@
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\bin\Debug\Blogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\bin\Debug\Blogic.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\bin\Debug\Dblogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\bin\Debug\Dblogic.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\obj\Debug\Blogic.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\obj\Debug\Blogic.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\obj\Debug\Blogic.csproj.CopyComplete
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\obj\Debug\Blogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Blogic\obj\Debug\Blogic.pdb

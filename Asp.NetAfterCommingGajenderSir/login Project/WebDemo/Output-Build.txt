@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: WebDemo, Configuration: Debug Any CPU ------
+1>  WebDemo -> C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\WebDemo\bin\WebDemo.dll
+========== Build: 1 succeeded, 0 failed, 2 up-to-date, 0 skipped ==========

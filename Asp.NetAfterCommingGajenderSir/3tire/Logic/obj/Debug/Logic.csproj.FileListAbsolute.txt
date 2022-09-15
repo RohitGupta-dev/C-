@@ -1,0 +1,9 @@
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\bin\Debug\Logic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\bin\Debug\Logic.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\bin\Debug\DbConn.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\bin\Debug\DbConn.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\obj\Debug\Logic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\Logic\obj\Debug\Logic.pdb

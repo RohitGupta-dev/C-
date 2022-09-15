@@ -53,7 +53,7 @@ Select CHARINDEX('@','gra@aaa.com',1)
 Select SUBSTRING('John@bbb.com',6, 7)
 
 Select SUBSTRING('John@bbb.com',(CHARINDEX('@', 'John@bbb.com') + 1),(LEN('John@bbb.com') - CHARINDEX('@','John@bbb.com')))
-
+		
 Select (CHARINDEX('@', 'John@bbb.com') + 1)
 
 select (LEN('John@bbb.com') - CHARINDEX('@','John@bbb.com'))
@@ -109,3 +109,9 @@ select CHARINDEX('@', Email) from tblEmployee
 select * from tblEmployee
 
 
+create view vw_tblEmployee
+as
+select firstName,MiddleName,LastName,Email,Gender from tblEmployee
+
+
+SELECT * FROM vw_tblEmployee WHERE Gender='FeMale'

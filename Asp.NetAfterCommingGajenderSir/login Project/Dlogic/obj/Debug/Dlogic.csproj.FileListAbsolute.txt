@@ -1,0 +1,6 @@
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\Dlogic\bin\Debug\Dlogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\Dlogic\bin\Debug\Dlogic.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\Dlogic\obj\Debug\Dlogic.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\Dlogic\obj\Debug\Dlogic.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\Dlogic\obj\Debug\Dlogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\Dlogic\obj\Debug\Dlogic.pdb

@@ -1,0 +1,9 @@
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\bin\Debug\BLogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\bin\Debug\BLogic.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\bin\Debug\Dlogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\bin\Debug\Dlogic.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\obj\Debug\BLogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\login Project\BLogic\obj\Debug\BLogic.pdb

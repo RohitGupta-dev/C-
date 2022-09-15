@@ -1,0 +1,6 @@
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Dblogic\bin\Debug\Dblogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Dblogic\bin\Debug\Dblogic.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Dblogic\obj\Debug\Dblogic.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Dblogic\obj\Debug\Dblogic.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Dblogic\obj\Debug\Dblogic.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\validation\Dblogic\obj\Debug\Dblogic.pdb

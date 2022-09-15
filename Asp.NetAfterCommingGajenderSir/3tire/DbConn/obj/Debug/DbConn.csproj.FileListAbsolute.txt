@@ -1,0 +1,6 @@
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\DbConn\bin\Debug\DbConn.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\DbConn\bin\Debug\DbConn.pdb
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\DbConn\obj\Debug\DbConn.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\DbConn\obj\Debug\DbConn.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\DbConn\obj\Debug\DbConn.dll
+C:\Users\Local User\Desktop\C#\Asp.NetAfterCommingGajenderSir\3tire\DbConn\obj\Debug\DbConn.pdb
