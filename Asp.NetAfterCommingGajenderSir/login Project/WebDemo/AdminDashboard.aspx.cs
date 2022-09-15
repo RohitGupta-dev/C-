@@ -15,6 +15,8 @@ namespace WebDemo
         {
             DataSet ds = new DataSet();
             ds = show.ShowBS();
+            
+
             //GridView1.DataSource = ds;
             //GridView1.DataBind();
         }

@@ -5,7 +5,8 @@ using System.Web;
 using System.Web.Services;
 using System.Web.Script.Serialization;
 using Newtonsoft.Json;
-
+using BLogic;
+using System.Data;
 namespace WebDemo
 {
     /// <summary>
@@ -39,5 +40,21 @@ namespace WebDemo
             Email = JsonConvert.SerializeObject(p);
             return Email;
         }
+
+
+        [WebMethod]
+        public object AdminData()
+        {
+            BLogic.ShowData show = new ShowData();
+            DataSet ds = new DataSet();
+            ds = show.ShowBS();
+               object Email = JsonConvert.SerializeObject(ds);
+          
+            return Email;
+        }
+
+
+
+
     }
 }
